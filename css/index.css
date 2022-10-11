@@ -1,0 +1,27 @@
+#firstRow {
+    background-color: #000;
+}
+
+.nazvanie {
+    color: #fff;
+}
+
+.pirmaPoga {
+    color: #fff;
+}
+
+.otraPoga {
+    color: #fff;
+}
+
+.tresaPoga {
+    color: #fff;
+}
+
+.ceturtaPoga {
+    color: #fff;
+}
+
+div {
+    display: block;
+}
