@@ -23,7 +23,7 @@ li {
 }
 
 #div-pic {
-    background-color: #e6b400;
+    background-color: #96e3a5;
     color: #000;
     text-align: center;
 }
@@ -33,7 +33,10 @@ li {
 }
 
 #pic {
-    padding-bottom: 5%;
+    margin-bottom: 3%;
+    width: 50%;
+    border: 3px dashed black;
+    padding: 1%;
 }
 
 #my-work {
